@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am syed65906033 on github.
+  * I am nasirkhan88802o (https://keybase.io/nasirkhan88802o) on keybase.
+  * I have a public key ASAPatmYQ6HCbm8_EjHslP-BQRuJ58a2QjZQh7VlU57gewo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f6ad99843a1c26e6f3f1231ec94ff81411b89e7c6b642365087b565539ee07b0a",
+      "host": "keybase.io",
+      "kid": "01200f6ad99843a1c26e6f3f1231ec94ff81411b89e7c6b642365087b565539ee07b0a",
+      "uid": "8fee99ba597a8e63363774d34b590f19",
+      "username": "nasirkhan88802o"
+    },
+    "merkle_root": {
+      "ctime": 1563532969,
+      "hash": "d99ff39ba4f9d5e799636f526e680a3bbedddafa78d710c714cf9b9b815f99e635c5554b6bf0bbded7ef50e4593052f26381053a4c9e71abf4f42cdf47a905cc",
+      "hash_meta": "4de5721b7dc90400314634feb17aead6e365dee434e443a516c241db2e726803",
+      "seqno": 5796838
+    },
+    "service": {
+      "entropy": "E0by/zPrHtSChCMHyC5+oHlX",
+      "name": "github",
+      "username": "syed65906033"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1563533049,
+  "expire_in": 504576000,
+  "prev": "b33e36cf9665f21079a008a87b2993a10c1b6eecc768eecac797b246ec5f7195",
+  "seqno": 23,
+  "tag": "signature"
+}
+```
+
+with the key [ASAPatmYQ6HCbm8_EjHslP-BQRuJ58a2QjZQh7VlU57gewo](https://keybase.io/nasirkhan88802o), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgD2rZmEOhwm5vPxIx7JT/gUEbiefGtkI2UIe1ZVOe4HsKp3BheWxvYWTESpcCF8Qgsz42z5Zl8hB5oAioeymToQwbbuzHaO7Kx5eyRuxfcZXEIE79iiB+06b6ynKn0ltsTSPxuqVURDbB5HcHzTsjBHWTAgHCo3NpZ8RAwl7awIvh+Y+uUljl4BZ8y5CU7qxm2ugqt4tcUFzKsrP6yzPeepxaXgVmsAdqOpioq/2qFSlJbKkMnCr5/LcmD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFNxdGxC32K5R6M7/mUzkou0MUbP1TI4nrxI5XQL+K5co3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/nasirkhan88802o
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id nasirkhan88802o
+```
